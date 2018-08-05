@@ -1,5 +1,5 @@
 # ConsoleMonopolyGame
-A Monopoly game implemented in C console
+A Monopoly game implemented in C console<br>
 通过C语言实现的大富翁控制台游戏(2016.6)
 
 ## Intro
