@@ -1,6 +1,6 @@
 # ConsoleMonopolyGame
 A Monopoly game implemented in C console
-通过C语言实现的大富翁控制台游戏
+通过C语言实现的大富翁控制台游戏(2016.6)
 
 ## Intro
 This is an easy game implemented by C language in 2016, when I was in freshman year and made first contact with C language. So there are no object-oriented pattern or independent interfaces or database implementations, etc. Please forgive my flaws if any.
