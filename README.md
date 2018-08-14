@@ -20,4 +20,4 @@ This is an easy game implemented by C language in 2016, when I was in freshman y
 ![](https://raw.githubusercontent.com/RiverLeeGitHub/ConsoleMonopolyGame/master/screenshots/GameInstruction.png)<br>
 
 ## Notice
-Microsoft Windows console is a recommended place to run this program. And unfortunately there is no English translation of this game. BTW, the coding way needs to support Chinese characters.
+Microsoft Windows console is a recommended place to run this program. And unfortunately there is no English translation of this game. BTW, UTF-8 is needed to support Chinese characters.
